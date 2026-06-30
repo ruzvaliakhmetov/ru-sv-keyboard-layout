@@ -12,3 +12,10 @@
 *.ttf  binary
 *.zip  binary
 *.tar.gz binary
+
+# Adobe design files
+*.ai  binary
+*.ait binary
+*.eps binary
+*.psd binary
+*.psb binary
